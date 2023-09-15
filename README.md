@@ -1,14 +1,9 @@
 ## STEPPING STONE INTRUSION DETECTION RESEARCH
 
 
-# Need to complete
-1. create three file Send, Echo, and TimeStamp of Send & Echo, only look at the OUT files bc of Echo
-2. For the Send and Echo files just have the whole line for the packet
-3. For the TimeStamp file only have the TimeStamp and remove the decimal point
+Created a chaff perturbation simulation algorithm in python to manipulate the TCP traffic to test if an intrusion
+detection algorithm is resistant to the changes.
 
-# Working on
-
-
-# Finished
-
-
+ Using Azure Databricks, created a cluster and uploaded the packets as a text file that has been collected by using
+TCPDump to run some statistical analysis such as getting the standard deviations of the run trip time, removing
+outliers with the z-score, and filtering the packets to determine how effective the intrusion detection algorithm is
