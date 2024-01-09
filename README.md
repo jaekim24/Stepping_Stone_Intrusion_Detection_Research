@@ -1,4 +1,5 @@
 ## STEPPING STONE INTRUSION DETECTION RESEARCH
+I was in charge of cleaning the data which are the packets captured by TCP dump.
 
 Created a chaff perturbation simulation algorithm in python to manipulate the TCP traffic to test if an intrusion
 detection algorithm is resistant to the changes.
