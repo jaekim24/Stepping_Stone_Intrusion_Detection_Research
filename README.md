@@ -8,5 +8,5 @@ detection algorithm is resistant to the changes.
 TCPDump to run some statistical analysis such as getting the standard deviations of the run trip time, removing
 outliers with the z-score, and filtering the packets to determine how effective the intrusion detection algorithm is
 
-- Research paper: https://www.mdpi.com/2079-9292/12/18/3855
+- Published Research paper: https://www.mdpi.com/2079-9292/12/18/3855
   
